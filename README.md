@@ -4,12 +4,12 @@ This document provides guides and instruction on how to quickly set up vim as pa
 
 ## **Shortcuts**
 
-`i` => Enter **Insert** mode.
-`Esc` => Exit **Insert** mode.
-`yy` => Copy entire line into vim clipboard.
-`p` => Paste clipboard content.
-`dd` => Delete entire line where cursor is currently positioned. 
-`Shift` + `Z` + `Z` => Exit `vim` editor.
+- `i` => Enter **Insert** mode.
+- `Esc` => Exit **Insert** mode.
+- `yy` => Copy entire line into vim clipboard.
+- `p` => Paste clipboard content.
+- `dd` => Delete entire line where cursor is currently positioned. 
+- `Shift` + `Z` + `Z` => Exit `vim` editor.
  
 
 ## **Configuration**
