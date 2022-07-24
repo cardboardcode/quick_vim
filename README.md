@@ -19,6 +19,8 @@ This document provides guides and instruction on how to quickly set up vim as pa
 set mouse=a
 " Prevent sections in .md files from collapsing unexpected and causing dev frustrations.
 set nofoldenable
+set secure
+set clipboard=unnamedplus
 ```
 ## **References**
 
