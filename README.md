@@ -57,5 +57,6 @@ vim
 
 ## **References**
 
+- How To Install vim Plugins by Seth Kenlon: https://opensource.com/article/20/2/how-install-vim-plugins
 - Writing and Previewing Markdown in Real Time with Vim 8+: https://nickjanetakis.com/blog/writing-and-previewing-markdown-in-real-time-with-vim-8
 
