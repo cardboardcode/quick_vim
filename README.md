@@ -18,9 +18,10 @@ This document provides guides and instruction on how to quickly set up vim as pa
 " Allow easier navigation of vim editor via mouse clicks as well as copying of text outside of vim.
 set mouse=a
 " Prevent sections in .md files from collapsing unexpected and causing dev frustrations.
-set nofoldenable
+set nofoldenable # Prevent vim from automatically shrinking paragraphs for easier editing.
 set secure
-set clipboard=unnamedplus
+set clipboard=unnamedplus # Allow lines copied in vim to be pasted onto global clipboard.
+set number # Display line number when editing.
 ```
 
 ## **Plugin Install**
