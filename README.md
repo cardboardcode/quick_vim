@@ -12,7 +12,7 @@ This document provides guides and instruction on how to quickly set up vim as pa
 - `Shift` + `Z` + `Z` => Exit `vim` editor.
  
 
-## **Configuration**
+## **Configuration** :notebook_with_decorative_cover:
 
 ```.vimrc
 " Allow easier navigation of vim editor via mouse clicks as well as copying of text outside of vim.
