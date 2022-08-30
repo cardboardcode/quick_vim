@@ -16,7 +16,6 @@ Plugin 'sheerun/vim-polyglot'
 Plugin 'rafi/awesome-vim-colorschemes'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'iamcco/markdown-preview.nvim', { 'do':'cd app & yarn install'}
-Plugin 'ycm-core/YouCompleteMe'
 
 call vundle#end()
 filetype plugin indent on
