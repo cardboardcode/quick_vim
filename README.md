@@ -2,7 +2,7 @@
 
 This document provides guides and instruction on how to quickly set up vim as part of an efficient dev's workflow.
 
-## **Shortcuts**
+## **Shortcuts** :musical_keyboard:
 
 - `i` => Enter **Insert** mode.
 - `Esc` => Exit **Insert** mode.
