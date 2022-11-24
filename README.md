@@ -56,6 +56,22 @@ vim
 # Indicate y to continue.
 ```
 
+## **Windows Installation**
+
+1. Install `vim` via [Chocolatey](https://community.chocolatey.org/packages/vim). Open a command prompt with administrative rights:
+
+```cmd
+choco install vim -y
+```
+
+2. Configure `vim` via modifying the file, `C:\tools\vim\_vimrc`:
+
+```cmd
+notepad C:\tools\vim\_vimrc
+```
+
+You can configure based on the **Configurations** recommended settings above.
+
 ## **References**
 
 - How To Install vim Plugins by Seth Kenlon: https://opensource.com/article/20/2/how-install-vim-plugins
