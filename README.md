@@ -14,6 +14,7 @@ This document provides guides and instruction on how to quickly set up vim as pa
 
 ## **Configuration** :notebook_with_decorative_cover:
 
+Copy the following in the the file `~/.vimrc`. If the file does not exist, create it using `cd $HOME && touch .vimrc` command:
 ```.vimrc
 " Allow easier navigation of vim editor via mouse clicks as well as copying of text outside of vim.
 set mouse=a
