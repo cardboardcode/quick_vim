@@ -1,6 +1,6 @@
 ## **What Is This?**
 
-This document provides guides and instruction on how to quickly set up vim as part of an efficient dev's workflow.
+This document provides **guides** and **instructions** on how to quickly set up vim as part of an efficient developers's workflow.
 
 ## **Shortcuts** :musical_keyboard:
 
