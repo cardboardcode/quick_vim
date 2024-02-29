@@ -14,7 +14,7 @@ This document provides **guides** and **instructions** on how to quickly set up 
 
 ## **Configuration** :notebook_with_decorative_cover:
 
-Copy the following in the the file `~/.vimrc`. If the file does not exist, create it using `cd $HOME && touch .vimrc` command:
+Copy the following in the the file `~/.vimrc` on **Linux** or `C:\Users\%USERNAME%\_vimrc` on **Windows** . If the file does not exist, create it using `cd $HOME && touch .vimrc` command:
 ```.vimrc
 " Allow easier navigation of vim editor via mouse clicks as well as copying of text outside of vim.
 set mouse=a
@@ -28,7 +28,7 @@ set number " Display line number when editing.
 ## **Plugin Install**
 Follow the instructions below to install plugins using **Vundle**. For **Vundle** installation instructions, please refer to the official [Vundle](https://github.com/VundleVim/Vundle.vim#quick-start) GitHub page.
 
-1. Include the following plugin statement in `~/.vimrc` between the two lines as shown below:
+1. Include the following plugin statement in `.vimrc` or `_vimrc` between the two lines as shown below:
 
 ```vimrc
 call vundle#begin()
