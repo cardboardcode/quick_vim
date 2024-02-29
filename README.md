@@ -23,6 +23,10 @@ set nofoldenable " Prevent vim from automatically shrinking paragraphs for easie
 set secure
 set clipboard=unnamedplus " Allow lines copied in vim to be pasted onto global clipboard.
 set number " Display line number when editing.
+
+set noswapfile " Optional - Prevent backup files from being generated automatically.
+set nobackup " Optional - Prevent backup files from being generated automatically.
+set nowritebackup " Optional - Prevent backup files from being generated automatically.
 ```
 
 ## **Plugin Install**
