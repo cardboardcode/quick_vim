@@ -10,7 +10,7 @@ This document provides **guides** and **instructions** on how to quickly set up 
 - `p` => Paste clipboard content.
 - `dd` => Delete entire line where cursor is currently positioned. 
 - `Shift` + `Z` + `Z` => Exit `vim` editor.
- 
+- `Shift` + `G` => Go to end-of-file.
 
 ## **Configuration** :notebook_with_decorative_cover:
 
